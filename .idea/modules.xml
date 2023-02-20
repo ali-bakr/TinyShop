@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tiny_Shop.iml" filepath="$PROJECT_DIR$/.idea/modules/Tiny_Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tiny_Shop.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Tiny_Shop.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Tiny_Shop.domain.unitTest.iml" />
+    </modules>
+  </component>
+</project>
