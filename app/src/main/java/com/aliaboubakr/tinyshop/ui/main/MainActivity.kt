@@ -1,4 +1,4 @@
-package com.aliaboubakr.tinyshop
+package com.aliaboubakr.tinyshop.ui.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,6 +23,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
+
+
                 }
             }
         }
