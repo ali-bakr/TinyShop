@@ -1,7 +1,7 @@
 package com.aliaboubakr.domain.repo
 
-import com.assignment.products.data.entity.ProductResponse
+import com.aliaboubakr.domain.entity.ProductsResponse
 
 interface ProductsRepo {
-    fun getProductsFromRemote():ProductResponse
+   suspend fun getProductsFromRemote(): ProductsResponse
 }

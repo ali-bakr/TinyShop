@@ -1,6 +1,6 @@
-package com.assignment.products.data.entity
+package com.aliaboubakr.domain.entity
 
-data class ProductResponse(
+data class ProductsResponse(
     val title: String,
     val currency: String,
     val items: List<Product>,

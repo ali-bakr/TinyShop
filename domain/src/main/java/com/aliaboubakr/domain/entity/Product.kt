@@ -1,4 +1,4 @@
-package com.assignment.products.data.entity
+package com.aliaboubakr.domain.entity
 
 import android.os.Parcelable
 //import kotlinx.parcelize.Parcelize
